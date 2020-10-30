@@ -19,6 +19,6 @@
         <p></p>
         <br>
         <a href="https://www.youtube.com/watch?v=w0AOGeqOnFY&list=FLtBZgZgf627RIdOSqqYHFQA&index=8">Click here to open nice song</a>
-        <h3>นิดา คงรุ่งเรือง (พิ้งค์) 63070095</h3>
+        <h3>นางสาวนิดา คงรุ่งเรือง (พิ้งค์) 63070095</h3>
     </body>
 </html>
