@@ -14,8 +14,8 @@
         <img src="doctor2.jpg" width="200">
         <p></p>
         <br>
-        <a href="https://www.youtube.com/watch?v=w0AOGeqOnFY&list=FLtBZgZgf627RIdOSqqYHFQA&index=8">Click here to open nice song</a></center>
-        <p>สนใจอ่านเรื่องราวอื่นๆคลิก</p> <a href="https://www.webtoons.com/th/">https://www.webtoons.com/th/</a>
-        <center><h3>นางสาวนิดา คงรุ่งเรือง (พิ้งค์) 63070095</h3></center>
+        <a href="https://www.youtube.com/watch?v=w0AOGeqOnFY&list=FLtBZgZgf627RIdOSqqYHFQA&index=8">Click here to open nice song</a>
+        <p>สนใจอ่านเรื่องราวอื่นๆคลิก<a href="https://www.webtoons.com/th/">https://www.webtoons.com/th/</a></p>
+        <h3>นางสาวนิดา คงรุ่งเรือง (พิ้งค์) 63070095</h3></center>
     </body>
 </html>
