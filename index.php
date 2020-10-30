@@ -16,6 +16,6 @@
         <p>"อาการคัดจมูกของคุณหายแล้วล่ะ...จากนี้ไปผมจะรักษาอาการหูตึงของคุณนะ"</p>
         <img src="cat.jpg">
         <br>
-        <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+        <a href="https://www.youtube.com/watch?v=w0AOGeqOnFY&list=FLtBZgZgf627RIdOSqqYHFQA&index=8">Click here to open nice song</a>
     </body>
 </html>
