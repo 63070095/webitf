@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Hello world</title>
+        <title>MY WEBSITE อิอิ</title>
         <meta charset="UTF-8">
     <head>
     <body>
