@@ -15,7 +15,7 @@
         <p></p>
         <br>
         <a href="https://www.youtube.com/watch?v=w0AOGeqOnFY&list=FLtBZgZgf627RIdOSqqYHFQA&index=8">Click here to open nice song</a>
-        ติดตามเพลงดีดีได้ที่ <a href="https://www.youtube.com/"</a>
+        <p>สนใจอ่านเรื่องราวอื่นๆคลิก</p> <a href="https://www.webtoons.com/th/">https://www.webtoons.com/th/</a>
         <h3>นางสาวนิดา คงรุ่งเรือง (พิ้งค์) 63070095</h3>
     </body>
 </html>
