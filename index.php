@@ -11,11 +11,11 @@
         <p>อาทิตย์ต่อมา สาวเปรี้ยวกลับมาหาหมอ</p>
         <p>"คุณหมอ! คุณหมอเอายาอะไรให้ชั้นกินคะเนี่ย ตอนนี้ดิฉันก็ยังตดเงียบๆเหมือนเดิม แต่ตดมันเหม็นมากเลยค่ะ"</p>
         <p>"ดีมาก" คุณหมอตอบ  "อาการคัดจมูกของคุณหายแล้วล่ะ...จากนี้ไปผมจะรักษาอาการหูตึงของคุณนะ"</p>
-        <img src="doctor2.jpg" width="200"></center>
+        <img src="doctor2.jpg" width="200">
         <p></p>
         <br>
-        <a href="https://www.youtube.com/watch?v=w0AOGeqOnFY&list=FLtBZgZgf627RIdOSqqYHFQA&index=8">Click here to open nice song</a>
+        <a href="https://www.youtube.com/watch?v=w0AOGeqOnFY&list=FLtBZgZgf627RIdOSqqYHFQA&index=8">Click here to open nice song</a></center>
         <p>สนใจอ่านเรื่องราวอื่นๆคลิก</p> <a href="https://www.webtoons.com/th/">https://www.webtoons.com/th/</a>
-        <h3>นางสาวนิดา คงรุ่งเรือง (พิ้งค์) 63070095</h3>
+        <center><h3>นางสาวนิดา คงรุ่งเรือง (พิ้งค์) 63070095</h3></center>
     </body>
 </html>
